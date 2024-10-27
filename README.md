@@ -1,4 +1,4 @@
-
+# Bouncing-Ball-Game
 This is a simple yet engaging "Bouncing Ball Game" built with Python and Pygame. The player controls a platform to keep a bouncing ball from falling off the screen, trying to achieve high scores while progressing through levels with increasing difficulty.
 
 # Game Features
