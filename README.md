@@ -13,7 +13,7 @@ Prerequisites
 * You can install Pygame by running: pip install pygame
 
 # Installation
-1. Clone the repository: git clone https://github.com/yourusername/bouncing-ball-game.git
+1. Clone the repository: git clone https://github.com/AkashVR07/bouncing-ball-game.git
 2. Navigate to the project directory: cd bouncing-ball-game
 3. Run the game: python BouncingBall.py
 
@@ -40,4 +40,4 @@ Prerequisites
 This project is licensed under the [MIT License](https://opensource.org/license/MIT).
 
 # Author
-* [Akash VR](https://github.com/AkashVR07)
+[Akash VR](https://github.com/AkashVR07)
