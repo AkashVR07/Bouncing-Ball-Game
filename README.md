@@ -13,9 +13,9 @@ Prerequisites
 * You can install Pygame by running: pip install pygame
 
 # Installation
-1. Clone the repository: git clone https://github.com/AkashVR07/bouncing-ball-game.git
-2. Navigate to the project directory: cd bouncing-ball-game
-3. Run the game: python BouncingBall.py
+1. Clone the repository: ```git clone https://github.com/AkashVR07/bouncing-ball-game.git```
+2. Navigate to the project directory: ```cd bouncing-ball-game```
+3. Run the game: ```python BouncingBall.py```
 
 # How to Play
 1. Start the game by pressing any key on the Start screen.
