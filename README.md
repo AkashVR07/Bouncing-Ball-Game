@@ -17,6 +17,9 @@ Prerequisites
 2. Navigate to the project directory: ```cd bouncing-ball-game```
 3. Run the game: ```python BouncingBall.py```
 
+# Snapshots
+<img width="1001" height="787" alt="Snapshot" src="https://github.com/user-attachments/assets/55f5a551-4496-4ef3-a1c7-1a8d0987e6c1" />
+
 # How to Play
 1. Start the game by pressing any key on the Start screen.
 2. Use Left and Right Arrow keys to move the platform horizontally.
