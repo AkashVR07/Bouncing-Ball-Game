@@ -39,8 +39,3 @@ Prerequisites
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [Pygame](https://en.wikipedia.org/wiki/Pygame)
 
-# License
-This project is licensed under the [MIT License](https://opensource.org/license/MIT).
-
-# Author
-[Akash VR](https://github.com/AkashVR07)
